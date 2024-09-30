@@ -135,7 +135,7 @@ const SocialBlock = () => {
                 }}
                 className='col-span-6 bg-black md:col-span-3'>
                 <a
-                    href="https://x.com/home"
+                    href="https://x.com/"
                     className='grid h-full place-content-center text-3xl text-white'
                     target='_blank'
                 >
